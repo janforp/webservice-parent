@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="webservice-consume-one" />
+        <module name="webservice-provider-one" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="webservice-consume-one" target="1.8" />
+      <module name="webservice-parent" target="1.8" />
+      <module name="webservice-provider-one" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
