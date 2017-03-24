@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/webservice-consume-one/webservice-consume-one.iml" filepath="$PROJECT_DIR$/webservice-consume-one/webservice-consume-one.iml" />
       <module fileurl="file://$PROJECT_DIR$/webservice-parent.iml" filepath="$PROJECT_DIR$/webservice-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webservice-provider-one/webservice-provider-one.iml" filepath="$PROJECT_DIR$/webservice-provider-one/webservice-provider-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ws-csdn/ws-csdn.iml" filepath="$PROJECT_DIR$/ws-csdn/ws-csdn.iml" />
     </modules>
   </component>
 </project>

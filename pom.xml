@@ -7,6 +7,7 @@
 	<artifactId>webservice-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <modules>
+		<module>ws-csdn</module>
 	</modules>
     <packaging>pom</packaging>
 
