@@ -12,7 +12,7 @@ import org.jsoso.jws.server.wsimportGen.PersonArray;
 public class RunClient {
 
     /**
-     * @param args
+     * @param  args
      */
     public static void main(String[] args) {
         //初始化服务框架类
